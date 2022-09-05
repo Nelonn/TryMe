@@ -1,0 +1,5 @@
+name: TryMe
+main: me.nelonn.tryme.TryMePlugin
+version: ${projectVersion}
+author: Nelonn
+api-version: 1.17
